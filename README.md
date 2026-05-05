@@ -1,16 +1,29 @@
 ## Hi there 👋
 
-<!--
-**M2R-sunil/M2R-sunil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm sunil kumar kuri</h1>
+<h3 align="center">Cybersecurity & Ethical Hacker 🚀</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+- 🎓 B.voc Graduate
+- 🔐 Interested in Ethical Hacking (XSS, SQLi)
+- 🛠 Tools: Burp Suite, SQLMap, Metasploit
+- 🧠 Learning: Web Pentesting
+
+---
+
+## 🚀 Skills
+- Web Security
+- Python
+- Linux
+- Networking Advance
+
+---
+
+## 🔥 Projects
+- 🔍 XSS Scanner Tool
+- 💉 SQL Injection Automation
+- 🌐 Recon Automation Scripts
+
+
